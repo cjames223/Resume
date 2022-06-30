@@ -10,5 +10,8 @@
   "license": "ISC",
   "bin": {
     "resume-me": "./index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
