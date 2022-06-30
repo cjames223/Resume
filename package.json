@@ -1,0 +1,14 @@
+{
+  "name": "cjames223-resume",
+  "version": "1.0.0",
+  "description": "Resume for Carlton James Jr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlton James Jr.",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
